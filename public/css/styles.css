@@ -18,6 +18,15 @@ h1 {
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
 }
 
+.box2 {
+  font-size: 0.74rem;
+  max-width: 300px;
+  margin: 100px auto;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
 #heading {
   background-color: #DC4405;
   text-align: center;
@@ -93,4 +102,9 @@ footer {
   color: white;
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
+}
+
+.footer-text {
+  background-color: #2a4cd1;
+  margin: 10px;
 }
