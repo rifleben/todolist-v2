@@ -50,7 +50,7 @@ app.get("/", function(req, res) {
       Item.insertMany(defaultItems);
       res.redirect("/");
        } else {
-        res.render("list", {listTitle: "Today", newListItems: defaultItems});
+        res.render("list", {listTitle: "Today", newListItems: data});
        }
     
   }) 
