@@ -4,6 +4,10 @@ This is a simple ToDo List web application that allows users to create and manag
 
 Made to practice web development with Mongoose, Node, and MongoDB.
 
+## CHECK OUT LIVE SITE
+You can check out the live site [HERE](https://benny-beaver-todo.herokuapp.com/).
+Hosted using Heroku and MongoDB Atlas
+
 ## Features
 
 - Add tasks to the list
